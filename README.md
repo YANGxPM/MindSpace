@@ -1,4 +1,5 @@
 # MindSpace - AI Mental Wellness Chatbot
+**[🔗查看中文版](README_zh.md)**
 
 > **Free, immediate, evidence-based emotional support for students and professionals**
 

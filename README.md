@@ -196,7 +196,7 @@ Server runs on `http://localhost:3001`
 - Analytics dashboard for administrators
 - Personalization with optional accounts
 - SSO integration for universities/companies
-- Multilingual support (Spanish first)
+- Multilingual support
 
 ## 📚 Documentation
 
